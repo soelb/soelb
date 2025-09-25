@@ -32,7 +32,7 @@
 
 ### 🧠 Recent Projects
 
-[![View Gist](https://img.shields.io/badge/Gist-Command_Time_Travel-blue?logo=gnu-bash&style=for-the-badge)](https://gist.github.com/soelb/abc123def4567890)
+[![View Gist](https://img.shields.io/badge/Gist-Command_Time_Travel-blue?logo=gnu-bash&style=for-the-badge)](https://gist.github.com/soelb/d59d4c7327d1a9ea8ac210b38f368f57)
 
 > ⏳ Explore your shell history like a time traveler — last week, last month, or this day last year.
 
