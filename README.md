@@ -26,11 +26,16 @@
 
 ---
 
-### 🔧 Recent Projects
+---
 
-> 🧠 **Command Time Travel**  
-> Explore your shell history like a time traveler – `--last-week`, `--last-month`, or `--same-day-last-year`.  
-> [View Gist »](https://gist.github.com/your-gist-link-here)
+---
+
+### 🧠 Recent Projects
+
+[![View Gist](https://img.shields.io/badge/Gist-Command_Time_Travel-blue?logo=gnu-bash&style=for-the-badge)](https://gist.github.com/soelb/abc123def4567890)
+
+> ⏳ Explore your shell history like a time traveler — last week, last month, or this day last year.
+
 
 ---
 
