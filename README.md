@@ -49,7 +49,7 @@
 
 ### 🧭 Find Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
+- 💼 [LinkedIn](https://www.linkedin.com/in/[your-link-here](https://www.linkedin.com/in/soeleece-benjamin-821532231/)
 
 ---
 
