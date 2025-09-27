@@ -51,6 +51,8 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/soeleece-benjamin-821532231/)
 
+- Go ahead... check out my Github portfolio
+
 ---
 
 ### 🤝 Open to...
