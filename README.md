@@ -26,10 +26,6 @@
 
 ---
 
----
-
----
-
 ### 🧠 Recent Projects
 
 [![View Gist](https://img.shields.io/badge/Gist-Command_Time_Travel-blue?logo=gnu-bash&style=for-the-badge)](https://gist.github.com/soelb/d59d4c7327d1a9ea8ac210b38f368f57)
