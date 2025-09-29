@@ -16,6 +16,20 @@
 
 ---
 
+### 📌 Professional Highlights
+
+- 🧠 **System Integrator at Scale** — Integrated 30+ behavioral health facilities post-acquisition, boosting adoption by 38% and reducing onboarding errors by 45%.
+
+- ⚙️ **Tool Optimizer** — Managed Salesforce, Genesys, Jira, and Twilio to streamline workflows and save 22+ hours/month.
+
+- 🚀 **Change Enabler** — Rolled out Agile tech solutions with custom onboarding & communication strategies, minimizing disruption and boosting user engagement.
+
+- 🧩 **Builder of Bridges** — Designed SOPs and playbooks that improved onboarding, collaboration, and project transparency across technical and non-technical teams.
+
+- 🔍 **Process & Compliance Expert** — Standardized checkpoints and templates, increasing platform adoption and ensuring compliance (+33%).
+
+---
+
 ### ⚙️ Tech Stack & Tools
 
 | Platform | Tools |
