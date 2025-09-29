@@ -63,22 +63,25 @@ I build tools that make complexity disappear. From dashboards to AI-powered scri
 
 🛠️ Currently building:
 
-• A jargon detector that simplifies technical writing using NLP
-• A Python code formatter powered by AST
-• A command-line time-travel tool for terminal history
+- A jargon detector that simplifies technical writing using NLP
+- A Python code formatter powered by AST
+- A command-line time-travel tool for terminal history
+
 
 💡 Exploring: Natural language interfaces, developer experience, full-stack creativity, and building in public (mistakes and all).
 
+
 Let’s connect if you love:
 
-• Making tools that actually get used
-• Simplifying workflows
-• Designing with intention
+- Making tools that actually get used
+- Simplifying workflows
+- Designing with intention
 
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/soeleece-benjamin-821532231/)
+ 💼 [LinkedIn](https://www.linkedin.com/in/soeleece-benjamin-821532231/)
+
   
-_“Good code is invisible. Great tools feel obvious.”_
+#### _“Good code is invisible. Great tools feel obvious.”_
 
 ---
 
