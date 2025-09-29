@@ -59,15 +59,10 @@
 
 ### 🧭 Find Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/soeleece-benjamin-821532231/)
-
-I build tools that make complexity disappear.
-
-From dashboards to AI-powered scripts, I create systems that help people work smarter — not harder.
-
-I’m not just a developer — I’m a connector. I bring ideas together across roles, tools, and workflows. Whether it's engineers, analysts, or project managers, I design with real people in mind.
+I build tools that make complexity disappear. From dashboards to AI-powered scripts, I create systems that help people work smarter — not harder. I’m not just a developer — I’m a connector. I bring ideas together across roles, tools, and workflows. Whether it's engineers, analysts, or project managers, I design with real people in mind.
 
 🛠️ Currently building:
+
 • A jargon detector that simplifies technical writing using NLP
 • A Python code formatter powered by AST
 • A command-line time-travel tool for terminal history
@@ -75,10 +70,14 @@ I’m not just a developer — I’m a connector. I bring ideas together across 
 💡 Exploring: Natural language interfaces, developer experience, full-stack creativity, and building in public (mistakes and all).
 
 Let’s connect if you love:
+
 • Making tools that actually get used
 • Simplifying workflows
 • Designing with intention
 
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/soeleece-benjamin-821532231/)
+  
 _“Good code is invisible. Great tools feel obvious.”_
 
 ---
