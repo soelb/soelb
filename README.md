@@ -20,7 +20,7 @@
 
 - 🧠 **System Integrator at Scale** — Integrated 30+ behavioral health facilities post-acquisition, boosting adoption by 38% and reducing onboarding errors by 45%.
 
-- ⚙️ **Tool Optimizer** — Managed Salesforce, Genesys, Jira, and Twilio to streamline workflows and save 22+ hours/month.
+- ⚙️ **Tool Optimizer** — Managed Salesforce, Genesys, Jira, Twilio and more to streamline workflows and save 22+ hours/month.
 
 - 🚀 **Change Enabler** — Rolled out Agile tech solutions with custom onboarding & communication strategies, minimizing disruption and boosting user engagement.
 
