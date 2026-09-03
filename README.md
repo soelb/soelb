@@ -78,7 +78,7 @@ Let’s connect if you love:
 - Designing with intention
 
 
- 💼 [LinkedIn](https://www.linkedin.com/in/soeleece-benjamin-821532231/)
+ 💼 [LinkedIn](https://www.linkedin.com/in/soeleece-ingram-821532231/)
 
   
 #### _“Good code is invisible. Great tools feel obvious.”_
