@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there 👋 I'm Soeleece Benjamin</h1>
+<h1 align="center">Hey there 👋 I'm Soeleece Ingram</h1>
 
 <p align="center">
   👩🏽‍💻 Systems thinker. Workflow optimizer. Builder of tools that make tech make sense.
